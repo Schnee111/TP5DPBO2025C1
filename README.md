@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/1bf1e7a1-de90-4615-8e12-18447430194b
 # TP5DPBO2025C1
 
 ## Janji
