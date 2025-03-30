@@ -53,11 +53,11 @@ Program ini memungkinkan interaksi dengan pengguna melalui form untuk menambah, 
 
 ### 1. Start Program
 - Program dimulai dengan membuat objek dari kelas **Menu** yang menginisialisasi komponen-komponen GUI seperti **JTextField**, **JComboBox**, **JButton**, dan **JTable**.
-- Data mahasiswa yang ada dimasukkan ke dalam **listMahasiswa** yang disimpan di **Database** dan kemudian ditampilkan dalam tabel.
+- Data mahasiswa yang ada dimasukkan ke dalam **Database** dan kemudian ditampilkan dalam tabel.
 
 ### 2. Menambahkan Mahasiswa
 - Pengguna mengisi **NIM**, **Nama**, **grade**, dan memilih **Jenis Kelamin**.
-- Data mahasiswa baru akan ditambahkan ke dalam **listMahasiswa** dan tabel diperbarui dengan memanggil **setTable()**.
+- Data mahasiswa baru akan ditambahkan ke dalam **Database** dan tabel diperbarui dengan memanggil **setTable()**.
 
 ### 3. Memperbarui Mahasiswa
 - Pengguna memilih baris dalam tabel dan mengedit data mahasiswa pada form.
